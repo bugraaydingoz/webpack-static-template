@@ -1,0 +1,9 @@
+{{#if this.length}}
+<ul>
+  {{#each this}}
+  {{> item this}}
+  {{/each}}
+</ul>
+{{else}}
+<div>No item available.</div>
+{{/if}}

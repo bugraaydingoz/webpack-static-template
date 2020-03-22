@@ -1,0 +1,1 @@
+Webpack template for static web pages using handlebars
